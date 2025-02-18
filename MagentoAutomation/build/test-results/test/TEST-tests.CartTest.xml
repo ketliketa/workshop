@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tests.CartTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-18T15:01:39" hostname="DESKTOP-QSG8OKQ" time="13.997">
+  <properties/>
+  <testcase name="testAddAndRemoveSingleProductFromCart" classname="tests.CartTest" time="13.997"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Feb 18, 2025 4:01:39 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 133
+Feb 18, 2025 4:01:39 PM org.openqa.selenium.chromium.ChromiumDriver lambda$new$5
+WARNING: Unable to find version of CDP to use for 133.0.6943.99. You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.15.0` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+]]></system-err>
+</testsuite>
